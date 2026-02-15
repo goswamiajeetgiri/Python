@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=PCa0aYi4rNc
 
 
 status code--- 422--variable paas not match with recieved dtos variable.
+
+https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/#hash-and-verify-the-passwords
